@@ -1,0 +1,20 @@
+{
+  "symbol": "GOOGL",
+  "name": "谷歌",
+  "type": "us",
+  "price": 346.77,
+  "change": -7.69,
+  "changePct": -2.17,
+  "klineImage": "/kline/GOOGL.png",
+  "indicators": {
+    "maTrend": "↑ 均线金叉 · 偏多",
+    "macd": "死叉 · DIF下穿DEA",
+    "macdDir": "偏空",
+    "rsi": 42.2,
+    "rsiLevel": "中性",
+    "support": "330",
+    "pressure": "375"
+  },
+  "summary": "谷歌 近 124 根K线，↑ 均线金叉 · 偏多；RSI(14) 42.2（中性），MACD 死叉 · DIF下穿DEA。支撑参考 330，压力参考 375。",
+  "updateDate": "2026-07-18"
+}
