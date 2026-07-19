@@ -16,6 +16,14 @@
     "changePct": -2.79
   },
   {
+    "symbol": "bitcoin",
+    "name": "比特币",
+    "type": "crypto",
+    "price": 64412.01,
+    "change": -422.21,
+    "changePct": -0.65
+  },
+  {
     "symbol": "sh600664",
     "name": "哈药股份",
     "type": "cn",
@@ -30,29 +38,5 @@
     "price": 79.2,
     "change": 7.2,
     "changePct": 10.0
-  },
-  {
-    "symbol": "bitcoin",
-    "name": "比特币",
-    "type": "crypto",
-    "price": 64718.0,
-    "change": -116.22,
-    "changePct": -0.18
-  },
-  {
-    "symbol": "ethereum",
-    "name": "以太坊",
-    "type": "crypto",
-    "price": 1869.19,
-    "change": 6.58,
-    "changePct": 0.35
-  },
-  {
-    "symbol": "solana",
-    "name": "Solana",
-    "type": "crypto",
-    "price": 76.12,
-    "change": 0.6,
-    "changePct": 0.79
   }
 ]
