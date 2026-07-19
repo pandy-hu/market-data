@@ -1,0 +1,20 @@
+{
+  "symbol": "sz002185",
+  "name": "九安医疗",
+  "type": "cn",
+  "price": 18.72,
+  "change": -2.08,
+  "changePct": -10.0,
+  "klineImage": "/kline/sz002185.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 44.2,
+    "rsiLevel": "中性",
+    "support": "19",
+    "pressure": "27"
+  },
+  "summary": "九安医疗 近 40 根K线，震荡整理；RSI(14) 44.2（中性），MACD 绿柱放大 · 空头动能。支撑参考 19，压力参考 27。",
+  "updateDate": "2026-07-19"
+}

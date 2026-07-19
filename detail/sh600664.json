@@ -1,0 +1,20 @@
+{
+  "symbol": "sh600664",
+  "name": "哈药股份",
+  "type": "cn",
+  "price": 5.33,
+  "change": 0.39,
+  "changePct": 7.89,
+  "klineImage": "/kline/sh600664.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 88.3,
+    "rsiLevel": "超买",
+    "support": "3",
+    "pressure": "5"
+  },
+  "summary": "哈药股份 近 40 根K线，震荡整理；RSI(14) 88.3（超买），MACD 红柱放大 · 多头动能。支撑参考 3，压力参考 5。",
+  "updateDate": "2026-07-19"
+}

@@ -7,14 +7,14 @@
   "changePct": -2.21,
   "klineImage": "/kline/NVDA.png",
   "indicators": {
-    "maTrend": "↑ 均线金叉 · 偏多",
+    "maTrend": "均线纠缠 · 震荡",
     "macd": "红柱放大 · 多头动能",
     "macdDir": "偏多",
-    "rsi": 48.2,
+    "rsi": 46.8,
     "rsiLevel": "中性",
     "support": "190",
     "pressure": "214"
   },
-  "summary": "英伟达 近 124 根K线，↑ 均线金叉 · 偏多；RSI(14) 48.2（中性），MACD 红柱放大 · 多头动能。支撑参考 190，压力参考 214。",
-  "updateDate": "2026-07-18"
+  "summary": "英伟达 近 40 根K线，震荡整理；RSI(14) 46.8（中性），MACD 红柱放大 · 多头动能。支撑参考 190，压力参考 214。",
+  "updateDate": "2026-07-19"
 }
