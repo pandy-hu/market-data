@@ -7,14 +7,14 @@
   "changePct": 0.14,
   "klineImage": "/kline/AAPL.png",
   "indicators": {
-    "maTrend": "★ 多头排列 · 强势",
+    "maTrend": "均线纠缠 · 震荡",
     "macd": "红柱放大 · 多头动能",
     "macdDir": "偏多",
-    "rsi": 71.7,
+    "rsi": 70.5,
     "rsiLevel": "超买",
     "support": "274",
     "pressure": "335"
   },
-  "summary": "苹果 近 124 根K线，★ 多头排列 · 强势；RSI(14) 71.7（超买），MACD 红柱放大 · 多头动能。支撑参考 274，压力参考 335。",
-  "updateDate": "2026-07-18"
+  "summary": "苹果 近 39 根K线，震荡整理；RSI(14) 70.5（超买），MACD 红柱放大 · 多头动能。支撑参考 274，压力参考 335。",
+  "updateDate": "2026-07-20"
 }

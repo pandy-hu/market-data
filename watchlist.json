@@ -8,35 +8,35 @@
     "changePct": -2.21
   },
   {
-    "symbol": "META",
-    "name": "Meta",
+    "symbol": "AAPL",
+    "name": "苹果",
     "type": "us",
-    "price": 646.01,
-    "change": -18.53,
-    "changePct": -2.79
+    "price": 333.74,
+    "change": 0.48,
+    "changePct": 0.14
+  },
+  {
+    "symbol": "sh600519",
+    "name": "贵州茅台",
+    "type": "cn",
+    "price": 1327.5,
+    "change": 74.5,
+    "changePct": 5.95
+  },
+  {
+    "symbol": "sh600938",
+    "name": "中国海油",
+    "type": "cn",
+    "price": 31.87,
+    "change": 2.9,
+    "changePct": 10.01
   },
   {
     "symbol": "bitcoin",
     "name": "比特币",
     "type": "crypto",
-    "price": 64412.01,
-    "change": -422.21,
-    "changePct": -0.65
-  },
-  {
-    "symbol": "sh600664",
-    "name": "哈药股份",
-    "type": "cn",
-    "price": 5.33,
-    "change": 0.39,
-    "changePct": 7.89
-  },
-  {
-    "symbol": "sz002432",
-    "name": "九安医疗",
-    "type": "cn",
-    "price": 79.2,
-    "change": 7.2,
-    "changePct": 10.0
+    "price": 64555.99,
+    "change": -166.55,
+    "changePct": -0.26
   }
 ]
