@@ -1,0 +1,20 @@
+{
+  "symbol": "sz300308",
+  "name": "中际旭创",
+  "type": "cn",
+  "price": 1136.55,
+  "change": 132.55,
+  "changePct": 13.2,
+  "klineImage": "/kline/sz300308.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 49.5,
+    "rsiLevel": "中性",
+    "support": "951",
+    "pressure": "1,345"
+  },
+  "summary": "中际旭创 近 40 根K线，震荡整理；RSI(14) 49.5（中性），MACD 绿柱放大 · 空头动能。支撑参考 951，压力参考 1,345。",
+  "updateDate": "2026-07-21"
+}
