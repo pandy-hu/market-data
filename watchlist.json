@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "NVDA",
-    "name": "英伟达",
-    "type": "us",
-    "price": 203.28,
-    "change": 0.47,
-    "changePct": 0.23
+    "symbol": "sz301165",
+    "name": "锐捷网络",
+    "type": "cn",
+    "price": 126.0,
+    "change": 15.14,
+    "changePct": 13.66
+  },
+  {
+    "symbol": "sh601899",
+    "name": "紫金矿业",
+    "type": "cn",
+    "price": 32.2,
+    "change": 1.99,
+    "changePct": 6.59
   },
   {
     "symbol": "sz300308",
     "name": "中际旭创",
     "type": "cn",
-    "price": 1136.55,
-    "change": 132.55,
-    "changePct": 13.2
+    "price": 1060.8,
+    "change": -75.75,
+    "changePct": -6.66
   },
   {
-    "symbol": "sh688981",
-    "name": "中芯国际",
-    "type": "cn",
-    "price": 160.0,
-    "change": 16.0,
-    "changePct": 11.11
-  },
-  {
-    "symbol": "sh603986",
-    "name": "兆易创新",
-    "type": "cn",
-    "price": 475.53,
-    "change": 43.23,
-    "changePct": 10.0
+    "symbol": "NVDA",
+    "name": "英伟达",
+    "type": "us",
+    "price": 207.29,
+    "change": 4.01,
+    "changePct": 1.97
   },
   {
     "symbol": "bitcoin",
     "name": "比特币",
     "type": "crypto",
-    "price": 66453.95,
-    "change": 1198.44,
-    "changePct": 1.84
+    "price": 65652.44,
+    "change": -903.72,
+    "changePct": -1.36
   }
 ]

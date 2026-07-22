@@ -1,0 +1,20 @@
+{
+  "symbol": "sh601899",
+  "name": "紫金矿业",
+  "type": "cn",
+  "price": 32.2,
+  "change": 1.99,
+  "changePct": 6.59,
+  "klineImage": "/kline/sh601899.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 65.3,
+    "rsiLevel": "中性",
+    "support": "24",
+    "pressure": "33"
+  },
+  "summary": "紫金矿业 近 40 根K线，震荡整理；RSI(14) 65.3（中性），MACD 红柱放大 · 多头动能。支撑参考 24，压力参考 33。",
+  "updateDate": "2026-07-22"
+}
