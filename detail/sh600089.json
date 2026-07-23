@@ -1,0 +1,20 @@
+{
+  "symbol": "sh600089",
+  "name": "特变电工",
+  "type": "cn",
+  "price": 21.53,
+  "change": 1.75,
+  "changePct": 8.85,
+  "klineImage": "/kline/sh600089.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 52.8,
+    "rsiLevel": "中性",
+    "support": "19",
+    "pressure": "23"
+  },
+  "summary": "特变电工 近 40 根K线，震荡整理；RSI(14) 52.8（中性），MACD 红柱放大 · 多头动能。支撑参考 19，压力参考 23。",
+  "updateDate": "2026-07-23"
+}

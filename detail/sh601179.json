@@ -1,0 +1,20 @@
+{
+  "symbol": "sh601179",
+  "name": "中国西电",
+  "type": "cn",
+  "price": 13.65,
+  "change": 1.24,
+  "changePct": 9.99,
+  "klineImage": "/kline/sh601179.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 49.2,
+    "rsiLevel": "中性",
+    "support": "11",
+    "pressure": "16"
+  },
+  "summary": "中国西电 近 40 根K线，震荡整理；RSI(14) 49.2（中性），MACD 金叉 · DIF上穿DEA。支撑参考 11，压力参考 16。",
+  "updateDate": "2026-07-23"
+}
