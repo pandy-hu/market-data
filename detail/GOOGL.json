@@ -2,9 +2,9 @@
   "symbol": "GOOGL",
   "name": "谷歌-A",
   "type": "us",
-  "price": 342.09,
-  "change": -5.06,
-  "changePct": -1.46,
+  "price": 323.69,
+  "change": -18.4,
+  "changePct": -5.38,
   "klineImage": "/kline/GOOGL.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",

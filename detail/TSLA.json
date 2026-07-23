@@ -2,9 +2,9 @@
   "symbol": "TSLA",
   "name": "特斯拉",
   "type": "us",
-  "price": 374.01,
-  "change": -4.92,
-  "changePct": -1.3,
+  "price": 344.21,
+  "change": -29.81,
+  "changePct": -7.97,
   "klineImage": "/kline/TSLA.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
