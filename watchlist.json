@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "TSLA",
-    "name": "特斯拉",
-    "type": "us",
-    "price": 344.21,
-    "change": -29.81,
-    "changePct": -7.97
-  },
-  {
-    "symbol": "GOOGL",
-    "name": "谷歌-A",
-    "type": "us",
-    "price": 323.69,
-    "change": -18.4,
-    "changePct": -5.38
-  },
-  {
-    "symbol": "sh601179",
-    "name": "中国西电",
+    "symbol": "sh601606",
+    "name": "长城军工",
     "type": "cn",
-    "price": 13.65,
-    "change": 1.24,
+    "price": 32.05,
+    "change": 2.91,
     "changePct": 9.99
   },
   {
-    "symbol": "sh600089",
-    "name": "特变电工",
+    "symbol": "sz002156",
+    "name": "通富微电",
     "type": "cn",
-    "price": 21.53,
-    "change": 1.75,
-    "changePct": 8.85
+    "price": 76.64,
+    "change": 6.82,
+    "changePct": 9.77
+  },
+  {
+    "symbol": "MSFT",
+    "name": "微软",
+    "type": "us",
+    "price": 386.33,
+    "change": 4.73,
+    "changePct": 1.24
+  },
+  {
+    "symbol": "NVDA",
+    "name": "英伟达",
+    "type": "us",
+    "price": 207.68,
+    "change": -1.09,
+    "changePct": -0.52
   },
   {
     "symbol": "bitcoin",
     "name": "比特币",
     "type": "crypto",
-    "price": 65023.0,
-    "change": -511.17,
-    "changePct": -0.78
+    "price": 64400.0,
+    "change": -611.1,
+    "changePct": -0.94
   }
 ]

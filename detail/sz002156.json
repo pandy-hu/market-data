@@ -1,0 +1,20 @@
+{
+  "symbol": "sz002156",
+  "name": "通富微电",
+  "type": "cn",
+  "price": 76.64,
+  "change": 6.82,
+  "changePct": 9.77,
+  "klineImage": "/kline/sz002156.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 55.4,
+    "rsiLevel": "中性",
+    "support": "57",
+    "pressure": "85"
+  },
+  "summary": "通富微电 近 40 根K线，震荡整理；RSI(14) 55.4（中性），MACD 金叉 · DIF上穿DEA。支撑参考 57，压力参考 85。",
+  "updateDate": "2026-07-24"
+}

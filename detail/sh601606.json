@@ -1,0 +1,20 @@
+{
+  "symbol": "sh601606",
+  "name": "长城军工",
+  "type": "cn",
+  "price": 32.05,
+  "change": 2.91,
+  "changePct": 9.99,
+  "klineImage": "/kline/sh601606.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 64.7,
+    "rsiLevel": "中性",
+    "support": "25",
+    "pressure": "32"
+  },
+  "summary": "长城军工 近 40 根K线，震荡整理；RSI(14) 64.7（中性），MACD 红柱放大 · 多头动能。支撑参考 25，压力参考 32。",
+  "updateDate": "2026-07-24"
+}

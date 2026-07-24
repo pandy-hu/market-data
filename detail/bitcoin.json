@@ -2,19 +2,19 @@
   "symbol": "bitcoin",
   "name": "比特币",
   "type": "crypto",
-  "price": 65023.0,
-  "change": -511.17,
-  "changePct": -0.78,
+  "price": 64400.0,
+  "change": -611.1,
+  "changePct": -0.94,
   "klineImage": "/kline/bitcoin.png",
   "indicators": {
     "maTrend": "↑ 均线金叉 · 偏多",
     "macd": "红柱放大 · 多头动能",
     "macdDir": "偏多",
-    "rsi": 53.3,
+    "rsi": 49.8,
     "rsiLevel": "中性",
     "support": "61,307",
     "pressure": "66,956"
   },
-  "summary": "比特币 近 60 根K线，↑ 均线金叉 · 偏多；RSI(14) 53.3（中性），MACD 红柱放大 · 多头动能。支撑参考 61,307，压力参考 66,956。",
-  "updateDate": "2026-07-23"
+  "summary": "比特币 近 60 根K线，↑ 均线金叉 · 偏多；RSI(14) 49.8（中性），MACD 红柱放大 · 多头动能。支撑参考 61,307，压力参考 66,956。",
+  "updateDate": "2026-07-24"
 }
