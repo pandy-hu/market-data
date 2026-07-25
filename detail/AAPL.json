@@ -1,0 +1,20 @@
+{
+  "symbol": "AAPL",
+  "name": "苹果",
+  "type": "us",
+  "price": 333.02,
+  "change": 11.35,
+  "changePct": 3.53,
+  "klineImage": "/kline/AAPL.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 63.1,
+    "rsiLevel": "中性",
+    "support": "274",
+    "pressure": "335"
+  },
+  "summary": "苹果 近 40 根K线，震荡整理；RSI(14) 63.1（中性），MACD 红柱放大 · 多头动能。支撑参考 274，压力参考 335。",
+  "updateDate": "2026-07-25"
+}

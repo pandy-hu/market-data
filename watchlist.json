@@ -1,5 +1,13 @@
 [
   {
+    "symbol": "AAPL",
+    "name": "苹果",
+    "type": "us",
+    "price": 333.02,
+    "change": 11.35,
+    "changePct": 3.53
+  },
+  {
     "symbol": "sh601606",
     "name": "长城军工",
     "type": "cn",
@@ -16,27 +24,19 @@
     "changePct": 9.77
   },
   {
-    "symbol": "MSFT",
-    "name": "微软",
-    "type": "us",
-    "price": 386.33,
-    "change": 4.73,
-    "changePct": 1.24
-  },
-  {
     "symbol": "NVDA",
     "name": "英伟达",
     "type": "us",
-    "price": 207.68,
-    "change": -1.09,
-    "changePct": -0.52
+    "price": 206.84,
+    "change": -1.92,
+    "changePct": -0.92
   },
   {
     "symbol": "bitcoin",
     "name": "比特币",
     "type": "crypto",
-    "price": 64400.0,
-    "change": -611.1,
-    "changePct": -0.94
+    "price": 64072.0,
+    "change": -257.32,
+    "changePct": -0.4
   }
 ]
