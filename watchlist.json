@@ -8,6 +8,14 @@
     "changePct": 3.53
   },
   {
+    "symbol": "sh603690",
+    "name": "至纯科技",
+    "type": "cn",
+    "price": 22.62,
+    "change": 2.06,
+    "changePct": 10.02
+  },
+  {
     "symbol": "sh601606",
     "name": "长城军工",
     "type": "cn",
@@ -24,19 +32,11 @@
     "changePct": 9.77
   },
   {
-    "symbol": "NVDA",
-    "name": "英伟达",
-    "type": "us",
-    "price": 206.84,
-    "change": -1.92,
-    "changePct": -0.92
-  },
-  {
     "symbol": "bitcoin",
     "name": "比特币",
     "type": "crypto",
-    "price": 64072.0,
-    "change": -257.32,
-    "changePct": -0.4
+    "price": 64461.0,
+    "change": 390.83,
+    "changePct": 0.61
   }
 ]

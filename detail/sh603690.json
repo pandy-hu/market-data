@@ -1,0 +1,20 @@
+{
+  "symbol": "sh603690",
+  "name": "至纯科技",
+  "type": "cn",
+  "price": 22.62,
+  "change": 2.06,
+  "changePct": 10.02,
+  "klineImage": "/kline/sh603690.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 35.6,
+    "rsiLevel": "中性",
+    "support": "19",
+    "pressure": "38"
+  },
+  "summary": "至纯科技 近 40 根K线，震荡整理；RSI(14) 35.6（中性），MACD 绿柱放大 · 空头动能。支撑参考 19，压力参考 38。",
+  "updateDate": "2026-07-26"
+}
