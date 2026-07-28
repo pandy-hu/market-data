@@ -1,42 +1,42 @@
 [
   {
+    "symbol": "sz300308",
+    "name": "中际旭创",
+    "type": "cn",
+    "price": 908.0,
+    "change": -168.98,
+    "changePct": -15.69
+  },
+  {
+    "symbol": "sh601398",
+    "name": "工商银行",
+    "type": "cn",
+    "price": 7.97,
+    "change": 0.24,
+    "changePct": 3.1
+  },
+  {
+    "symbol": "sh600519",
+    "name": "贵州茅台",
+    "type": "cn",
+    "price": 1320.0,
+    "change": 30.56,
+    "changePct": 2.37
+  },
+  {
     "symbol": "MSFT",
     "name": "微软",
     "type": "us",
-    "price": 388.62,
-    "change": 6.91,
-    "changePct": 1.81
+    "price": 394.27,
+    "change": 5.17,
+    "changePct": 1.33
   },
   {
-    "symbol": "sh600176",
-    "name": "中国巨石",
-    "type": "cn",
-    "price": 41.07,
-    "change": 3.73,
-    "changePct": 9.99
-  },
-  {
-    "symbol": "sz000636",
-    "name": "风华高科",
-    "type": "cn",
-    "price": 44.24,
-    "change": 4.02,
-    "changePct": 10.0
-  },
-  {
-    "symbol": "sz300750",
-    "name": "宁德时代",
-    "type": "cn",
-    "price": 400.0,
-    "change": 17.0,
-    "changePct": 4.44
-  },
-  {
-    "symbol": "ethereum",
-    "name": "以太坊",
+    "symbol": "solana",
+    "name": "Solana",
     "type": "crypto",
-    "price": 1953.21,
-    "change": 68.24,
-    "changePct": 3.62
+    "price": 73.13,
+    "change": -3.35,
+    "changePct": -4.38
   }
 ]

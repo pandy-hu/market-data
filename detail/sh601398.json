@@ -1,0 +1,20 @@
+{
+  "symbol": "sh601398",
+  "name": "工商银行",
+  "type": "cn",
+  "price": 7.97,
+  "change": 0.24,
+  "changePct": 3.1,
+  "klineImage": "/kline/sh601398.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 67.9,
+    "rsiLevel": "中性",
+    "support": "7",
+    "pressure": "8"
+  },
+  "summary": "工商银行 近 40 根K线，震荡整理；RSI(14) 67.9（中性），MACD 红柱放大 · 多头动能。支撑参考 7，压力参考 8。",
+  "updateDate": "2026-07-28"
+}
