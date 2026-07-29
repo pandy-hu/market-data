@@ -2,19 +2,19 @@
   "symbol": "sz000636",
   "name": "风华高科",
   "type": "cn",
-  "price": 44.24,
-  "change": 4.02,
+  "price": 47.51,
+  "change": 4.32,
   "changePct": 10.0,
   "klineImage": "/kline/sz000636.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
     "macd": "绿柱放大 · 空头动能",
     "macdDir": "偏空",
-    "rsi": 40.2,
+    "rsi": 44.1,
     "rsiLevel": "中性",
     "support": "38",
-    "pressure": "77"
+    "pressure": "71"
   },
-  "summary": "风华高科 近 40 根K线，震荡整理；RSI(14) 40.2（中性），MACD 绿柱放大 · 空头动能。支撑参考 38，压力参考 77。",
-  "updateDate": "2026-07-27"
+  "summary": "风华高科 近 40 根K线，震荡整理；RSI(14) 44.1（中性），MACD 绿柱放大 · 空头动能。支撑参考 38，压力参考 71。",
+  "updateDate": "2026-07-29"
 }

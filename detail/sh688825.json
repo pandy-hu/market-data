@@ -1,0 +1,20 @@
+{
+  "symbol": "sh688825",
+  "name": "C长鑫",
+  "type": "cn",
+  "price": 52.95,
+  "change": 5.95,
+  "changePct": 12.66,
+  "klineImage": "/kline/sh688825.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": null,
+    "rsiLevel": "中性",
+    "support": "—",
+    "pressure": "55"
+  },
+  "summary": "C长鑫 近 4 根K线，震荡整理；RSI(14) —（中性），MACD 红柱放大 · 多头动能。",
+  "updateDate": "2026-07-29"
+}

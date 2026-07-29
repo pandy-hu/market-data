@@ -1,42 +1,42 @@
 [
   {
+    "symbol": "sh688825",
+    "name": "C长鑫",
+    "type": "cn",
+    "price": 52.95,
+    "change": 5.95,
+    "changePct": 12.66
+  },
+  {
+    "symbol": "sz000636",
+    "name": "风华高科",
+    "type": "cn",
+    "price": 47.51,
+    "change": 4.32,
+    "changePct": 10.0
+  },
+  {
     "symbol": "sz300308",
     "name": "中际旭创",
     "type": "cn",
-    "price": 908.0,
-    "change": -168.98,
-    "changePct": -15.69
+    "price": 951.0,
+    "change": 43.04,
+    "changePct": 4.74
   },
   {
-    "symbol": "sh601398",
-    "name": "工商银行",
-    "type": "cn",
-    "price": 7.97,
-    "change": 0.24,
-    "changePct": 3.1
-  },
-  {
-    "symbol": "sh600519",
-    "name": "贵州茅台",
-    "type": "cn",
-    "price": 1320.0,
-    "change": 30.56,
-    "changePct": 2.37
-  },
-  {
-    "symbol": "MSFT",
-    "name": "微软",
+    "symbol": "TSLA",
+    "name": "特斯拉",
     "type": "us",
-    "price": 394.27,
-    "change": 5.17,
-    "changePct": 1.33
+    "price": 307.36,
+    "change": -0.09,
+    "changePct": -0.03
   },
   {
-    "symbol": "solana",
-    "name": "Solana",
+    "symbol": "bitcoin",
+    "name": "比特币",
     "type": "crypto",
-    "price": 73.13,
-    "change": -3.35,
-    "changePct": -4.38
+    "price": 64165.0,
+    "change": 823.44,
+    "changePct": 1.3
   }
 ]
