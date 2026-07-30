@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sh688825",
-    "name": "C长鑫",
-    "type": "cn",
-    "price": 52.95,
-    "change": 5.95,
-    "changePct": 12.66
-  },
-  {
-    "symbol": "sz000636",
-    "name": "风华高科",
-    "type": "cn",
-    "price": 47.51,
-    "change": 4.32,
-    "changePct": 10.0
-  },
-  {
-    "symbol": "sz300308",
-    "name": "中际旭创",
-    "type": "cn",
-    "price": 951.0,
-    "change": 43.04,
-    "changePct": 4.74
-  },
-  {
-    "symbol": "TSLA",
-    "name": "特斯拉",
+    "symbol": "MSFT",
+    "name": "微软",
     "type": "us",
-    "price": 307.36,
-    "change": -0.09,
-    "changePct": -0.03
+    "price": 429.05,
+    "change": 38.51,
+    "changePct": 9.86
+  },
+  {
+    "symbol": "META",
+    "name": "Meta",
+    "type": "us",
+    "price": 531.73,
+    "change": -53.88,
+    "changePct": -9.2
+  },
+  {
+    "symbol": "sh600418",
+    "name": "江淮汽车",
+    "type": "cn",
+    "price": 24.39,
+    "change": 2.22,
+    "changePct": 10.01
+  },
+  {
+    "symbol": "sz001309",
+    "name": "德明利",
+    "type": "cn",
+    "price": 390.04,
+    "change": 35.46,
+    "changePct": 10.0
   },
   {
     "symbol": "bitcoin",
     "name": "比特币",
     "type": "crypto",
-    "price": 64165.0,
-    "change": 823.44,
-    "changePct": 1.3
+    "price": 64767.0,
+    "change": 622.2,
+    "changePct": 0.97
   }
 ]

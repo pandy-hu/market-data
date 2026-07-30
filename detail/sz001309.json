@@ -1,0 +1,20 @@
+{
+  "symbol": "sz001309",
+  "name": "德明利",
+  "type": "cn",
+  "price": 390.04,
+  "change": 35.46,
+  "changePct": 10.0,
+  "klineImage": "/kline/sz001309.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 30.6,
+    "rsiLevel": "中性",
+    "support": "334",
+    "pressure": "954"
+  },
+  "summary": "德明利 近 40 根K线，震荡整理；RSI(14) 30.6（中性），MACD 绿柱放大 · 空头动能。支撑参考 334，压力参考 954。",
+  "updateDate": "2026-07-30"
+}
