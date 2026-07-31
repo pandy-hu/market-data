@@ -1,0 +1,20 @@
+{
+  "symbol": "AMZN",
+  "name": "亚马逊",
+  "type": "us",
+  "price": 271.07,
+  "change": 35.57,
+  "changePct": 15.1,
+  "klineImage": "/kline/AMZN.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 67.0,
+    "rsiLevel": "中性",
+    "support": "226",
+    "pressure": "272"
+  },
+  "summary": "亚马逊 近 40 根K线，震荡整理；RSI(14) 67.0（中性），MACD 金叉 · DIF上穿DEA。支撑参考 226，压力参考 272。",
+  "updateDate": "2026-07-31"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "sz300418",
+  "name": "昆仑万维",
+  "type": "cn",
+  "price": 43.2,
+  "change": 7.2,
+  "changePct": 20.0,
+  "klineImage": "/kline/sz300418.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 53.3,
+    "rsiLevel": "中性",
+    "support": "35",
+    "pressure": "54"
+  },
+  "summary": "昆仑万维 近 40 根K线，震荡整理；RSI(14) 53.3（中性），MACD 绿柱放大 · 空头动能。支撑参考 35，压力参考 54。",
+  "updateDate": "2026-07-31"
+}
