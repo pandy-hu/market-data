@@ -2,19 +2,19 @@
   "symbol": "MSFT",
   "name": "微软",
   "type": "us",
-  "price": 429.05,
-  "change": 38.51,
-  "changePct": 9.86,
+  "price": 464.72,
+  "change": 13.62,
+  "changePct": 3.02,
   "klineImage": "/kline/MSFT.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
     "macd": "红柱放大 · 多头动能",
     "macdDir": "偏多",
-    "rsi": 47.5,
-    "rsiLevel": "中性",
+    "rsi": 73.0,
+    "rsiLevel": "超买",
     "support": "373",
-    "pressure": "406"
+    "pressure": "467"
   },
-  "summary": "微软 近 39 根K线，震荡整理；RSI(14) 47.5（中性），MACD 红柱放大 · 多头动能。支撑参考 373，压力参考 406。",
-  "updateDate": "2026-07-30"
+  "summary": "微软 近 40 根K线，震荡整理；RSI(14) 73.0（超买），MACD 红柱放大 · 多头动能。支撑参考 373，压力参考 467。",
+  "updateDate": "2026-08-01"
 }
