@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "MSFT",
-    "name": "微软",
+    "symbol": "AMZN",
+    "name": "亚马逊",
     "type": "us",
-    "price": 464.72,
-    "change": 13.62,
-    "changePct": 3.02
+    "price": 271.58,
+    "change": 36.08,
+    "changePct": 15.32
   },
   {
-    "symbol": "GOOGL",
-    "name": "谷歌-A",
+    "symbol": "META",
+    "name": "Meta",
     "type": "us",
-    "price": 356.13,
-    "change": 22.46,
-    "changePct": 6.73
+    "price": 556.71,
+    "change": 17.68,
+    "changePct": 3.28
   },
   {
-    "symbol": "AAPL",
-    "name": "苹果",
-    "type": "us",
-    "price": 308.91,
-    "change": -24.51,
-    "changePct": -7.35
-  },
-  {
-    "symbol": "sz300308",
-    "name": "中际旭创",
+    "symbol": "sz301171",
+    "name": "易点天下",
     "type": "cn",
-    "price": 902.01,
-    "change": 38.02,
-    "changePct": 4.4
+    "price": 30.49,
+    "change": 5.08,
+    "changePct": 19.99
   },
   {
-    "symbol": "bitcoin",
-    "name": "比特币",
+    "symbol": "sh600588",
+    "name": "用友网络",
+    "type": "cn",
+    "price": 11.08,
+    "change": 1.01,
+    "changePct": 10.03
+  },
+  {
+    "symbol": "ethereum",
+    "name": "以太坊",
     "type": "crypto",
-    "price": 63083.63,
-    "change": 195.75,
-    "changePct": 0.31
+    "price": 1874.4,
+    "change": -10.96,
+    "changePct": -0.58
   }
 ]
