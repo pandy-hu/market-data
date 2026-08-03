@@ -2,19 +2,19 @@
   "symbol": "solana",
   "name": "Solana",
   "type": "crypto",
-  "price": 73.13,
-  "change": -3.35,
-  "changePct": -4.38,
+  "price": 72.44,
+  "change": -1.19,
+  "changePct": -1.62,
   "klineImage": "/kline/solana.png",
   "indicators": {
     "maTrend": "↓ 均线死叉 · 偏空",
     "macd": "绿柱放大 · 空头动能",
     "macdDir": "偏空",
-    "rsi": 41.5,
+    "rsi": 43.4,
     "rsiLevel": "中性",
-    "support": "73",
-    "pressure": "80"
+    "support": "71",
+    "pressure": "79"
   },
-  "summary": "Solana 近 60 根K线，↓ 均线死叉 · 偏空；RSI(14) 41.5（中性），MACD 绿柱放大 · 空头动能。支撑参考 73，压力参考 80。",
-  "updateDate": "2026-07-28"
+  "summary": "Solana 近 60 根K线，↓ 均线死叉 · 偏空；RSI(14) 43.4（中性），MACD 绿柱放大 · 空头动能。支撑参考 71，压力参考 79。",
+  "updateDate": "2026-08-03"
 }

@@ -1,0 +1,20 @@
+{
+  "symbol": "sz002176",
+  "name": "江特电机",
+  "type": "cn",
+  "price": 9.03,
+  "change": 0.82,
+  "changePct": 9.99,
+  "klineImage": "/kline/sz002176.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 55.3,
+    "rsiLevel": "中性",
+    "support": "7",
+    "pressure": "10"
+  },
+  "summary": "江特电机 近 40 根K线，震荡整理；RSI(14) 55.3（中性），MACD 红柱放大 · 多头动能。支撑参考 7，压力参考 10。",
+  "updateDate": "2026-08-03"
+}

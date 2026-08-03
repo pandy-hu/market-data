@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "AMZN",
-    "name": "亚马逊",
-    "type": "us",
-    "price": 271.58,
-    "change": 36.08,
-    "changePct": 15.32
-  },
-  {
-    "symbol": "META",
-    "name": "Meta",
-    "type": "us",
-    "price": 556.71,
-    "change": 17.68,
-    "changePct": 3.28
-  },
-  {
-    "symbol": "sz301171",
-    "name": "易点天下",
+    "symbol": "sh601611",
+    "name": "中国核建",
     "type": "cn",
-    "price": 30.49,
-    "change": 5.08,
-    "changePct": 19.99
+    "price": 11.61,
+    "change": 1.06,
+    "changePct": 10.05
   },
   {
-    "symbol": "sh600588",
-    "name": "用友网络",
+    "symbol": "sz002176",
+    "name": "江特电机",
     "type": "cn",
-    "price": 11.08,
-    "change": 1.01,
-    "changePct": 10.03
+    "price": 9.03,
+    "change": 0.82,
+    "changePct": 9.99
   },
   {
-    "symbol": "ethereum",
-    "name": "以太坊",
+    "symbol": "sh603986",
+    "name": "兆易创新",
+    "type": "cn",
+    "price": 340.74,
+    "change": -37.86,
+    "changePct": -10.0
+  },
+  {
+    "symbol": "NVDA",
+    "name": "英伟达",
+    "type": "us",
+    "price": 198.53,
+    "change": -2.23,
+    "changePct": -1.11
+  },
+  {
+    "symbol": "solana",
+    "name": "Solana",
     "type": "crypto",
-    "price": 1874.4,
-    "change": -10.96,
-    "changePct": -0.58
+    "price": 72.44,
+    "change": -1.19,
+    "changePct": -1.62
   }
 ]
