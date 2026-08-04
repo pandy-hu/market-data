@@ -1,0 +1,20 @@
+{
+  "symbol": "sz002384",
+  "name": "东山精密",
+  "type": "cn",
+  "price": 179.09,
+  "change": 16.28,
+  "changePct": 10.0,
+  "klineImage": "/kline/sz002384.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 41.1,
+    "rsiLevel": "中性",
+    "support": "162",
+    "pressure": "280"
+  },
+  "summary": "东山精密 近 40 根K线，震荡整理；RSI(14) 41.1（中性），MACD 绿柱放大 · 空头动能。支撑参考 162，压力参考 280。",
+  "updateDate": "2026-08-04"
+}
