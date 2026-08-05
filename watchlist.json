@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sz300308",
-    "name": "中际旭创",
+    "symbol": "sz300476",
+    "name": "胜宏科技",
     "type": "cn",
-    "price": 1021.99,
-    "change": 119.49,
-    "changePct": 13.24
+    "price": 236.35,
+    "change": 34.55,
+    "changePct": 17.12
   },
   {
-    "symbol": "sh603259",
-    "name": "药明康德",
+    "symbol": "sz002428",
+    "name": "云南锗业",
     "type": "cn",
-    "price": 141.35,
-    "change": 12.85,
+    "price": 82.71,
+    "change": 7.52,
     "changePct": 10.0
   },
   {
-    "symbol": "sz002384",
-    "name": "东山精密",
+    "symbol": "sh603986",
+    "name": "兆易创新",
     "type": "cn",
-    "price": 179.09,
-    "change": 16.28,
-    "changePct": 10.0
+    "price": 385.44,
+    "change": 29.41,
+    "changePct": 8.26
   },
   {
-    "symbol": "AMZN",
-    "name": "亚马逊",
+    "symbol": "TSLA",
+    "name": "特斯拉",
     "type": "us",
-    "price": 284.02,
-    "change": 12.44,
-    "changePct": 4.58
+    "price": 322.5,
+    "change": -4.84,
+    "changePct": -1.48
   },
   {
-    "symbol": "bitcoin",
-    "name": "比特币",
+    "symbol": "ethereum",
+    "name": "以太坊",
     "type": "crypto",
-    "price": 63911.52,
-    "change": 391.52,
-    "changePct": 0.62
+    "price": 1869.62,
+    "change": -0.13,
+    "changePct": -0.01
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "symbol": "sz002428",
+  "name": "云南锗业",
+  "type": "cn",
+  "price": 82.71,
+  "change": 7.52,
+  "changePct": 10.0,
+  "klineImage": "/kline/sz002428.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 52.8,
+    "rsiLevel": "中性",
+    "support": "61",
+    "pressure": "107"
+  },
+  "summary": "云南锗业 近 40 根K线，震荡整理；RSI(14) 52.8（中性），MACD 金叉 · DIF上穿DEA。支撑参考 61，压力参考 107。",
+  "updateDate": "2026-08-05"
+}

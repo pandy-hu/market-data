@@ -1,0 +1,20 @@
+{
+  "symbol": "sz300476",
+  "name": "胜宏科技",
+  "type": "cn",
+  "price": 236.35,
+  "change": 34.55,
+  "changePct": 17.12,
+  "klineImage": "/kline/sz300476.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 47.1,
+    "rsiLevel": "中性",
+    "support": "178",
+    "pressure": "305"
+  },
+  "summary": "胜宏科技 近 40 根K线，震荡整理；RSI(14) 47.1（中性），MACD 金叉 · DIF上穿DEA。支撑参考 178，压力参考 305。",
+  "updateDate": "2026-08-05"
+}

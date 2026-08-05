@@ -2,19 +2,19 @@
   "symbol": "TSLA",
   "name": "特斯拉",
   "type": "us",
-  "price": 307.36,
-  "change": -0.09,
-  "changePct": -0.03,
+  "price": 322.5,
+  "change": -4.84,
+  "changePct": -1.48,
   "klineImage": "/kline/TSLA.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
     "macd": "绿柱放大 · 空头动能",
     "macdDir": "偏空",
-    "rsi": 26.5,
-    "rsiLevel": "超卖",
-    "support": "301",
-    "pressure": "433"
+    "rsi": 38.5,
+    "rsiLevel": "中性",
+    "support": "297",
+    "pressure": "420"
   },
-  "summary": "特斯拉 近 39 根K线，震荡整理；RSI(14) 26.5（超卖），MACD 绿柱放大 · 空头动能。支撑参考 301，压力参考 433。",
-  "updateDate": "2026-07-29"
+  "summary": "特斯拉 近 39 根K线，震荡整理；RSI(14) 38.5（中性），MACD 绿柱放大 · 空头动能。支撑参考 297，压力参考 420。",
+  "updateDate": "2026-08-05"
 }
