@@ -1,0 +1,20 @@
+{
+  "symbol": "sz002407",
+  "name": "多氟多",
+  "type": "cn",
+  "price": 36.09,
+  "change": 3.28,
+  "changePct": 10.0,
+  "klineImage": "/kline/sz002407.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 53.7,
+    "rsiLevel": "中性",
+    "support": "25",
+    "pressure": "46"
+  },
+  "summary": "多氟多 近 40 根K线，震荡整理；RSI(14) 53.7（中性），MACD 红柱放大 · 多头动能。支撑参考 25，压力参考 46。",
+  "updateDate": "2026-08-06"
+}

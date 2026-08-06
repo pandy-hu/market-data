@@ -1,0 +1,20 @@
+{
+  "symbol": "sh600584",
+  "name": "长电科技",
+  "type": "cn",
+  "price": 75.87,
+  "change": 6.9,
+  "changePct": 10.0,
+  "klineImage": "/kline/sh600584.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 48.9,
+    "rsiLevel": "中性",
+    "support": "61",
+    "pressure": "114"
+  },
+  "summary": "长电科技 近 40 根K线，震荡整理；RSI(14) 48.9（中性），MACD 绿柱放大 · 空头动能。支撑参考 61，压力参考 114。",
+  "updateDate": "2026-08-06"
+}

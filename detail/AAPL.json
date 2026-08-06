@@ -2,19 +2,19 @@
   "symbol": "AAPL",
   "name": "苹果",
   "type": "us",
-  "price": 308.91,
-  "change": -24.51,
-  "changePct": -7.35,
+  "price": 311.0,
+  "change": 1.62,
+  "changePct": 0.52,
   "klineImage": "/kline/AAPL.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
-    "macd": "死叉 · DIF下穿DEA",
+    "macd": "绿柱放大 · 空头动能",
     "macdDir": "偏空",
-    "rsi": 41.9,
+    "rsi": 46.0,
     "rsiLevel": "中性",
     "support": "300",
     "pressure": "345"
   },
-  "summary": "苹果 近 40 根K线，震荡整理；RSI(14) 41.9（中性），MACD 死叉 · DIF下穿DEA。支撑参考 300，压力参考 345。",
-  "updateDate": "2026-08-01"
+  "summary": "苹果 近 39 根K线，震荡整理；RSI(14) 46.0（中性），MACD 绿柱放大 · 空头动能。支撑参考 300，压力参考 345。",
+  "updateDate": "2026-08-06"
 }

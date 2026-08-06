@@ -1,0 +1,20 @@
+{
+  "symbol": "sh600206",
+  "name": "有研新材",
+  "type": "cn",
+  "price": 43.79,
+  "change": 3.98,
+  "changePct": 10.0,
+  "klineImage": "/kline/sh600206.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 53.2,
+    "rsiLevel": "中性",
+    "support": "32",
+    "pressure": "64"
+  },
+  "summary": "有研新材 近 40 根K线，震荡整理；RSI(14) 53.2（中性），MACD 绿柱放大 · 空头动能。支撑参考 32，压力参考 64。",
+  "updateDate": "2026-08-06"
+}
