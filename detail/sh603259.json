@@ -2,19 +2,19 @@
   "symbol": "sh603259",
   "name": "药明康德",
   "type": "cn",
-  "price": 141.35,
-  "change": 12.85,
-  "changePct": 10.0,
+  "price": 154.82,
+  "change": 12.12,
+  "changePct": 8.49,
   "klineImage": "/kline/sh603259.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
-    "macd": "金叉 · DIF上穿DEA",
+    "macd": "红柱放大 · 多头动能",
     "macdDir": "偏多",
-    "rsi": 71.9,
+    "rsi": 74.5,
     "rsiLevel": "超买",
-    "support": "115",
-    "pressure": "141"
+    "support": "117",
+    "pressure": "155"
   },
-  "summary": "药明康德 近 40 根K线，震荡整理；RSI(14) 71.9（超买），MACD 金叉 · DIF上穿DEA。支撑参考 115，压力参考 141。",
-  "updateDate": "2026-08-04"
+  "summary": "药明康德 近 40 根K线，震荡整理；RSI(14) 74.5（超买），MACD 红柱放大 · 多头动能。支撑参考 117，压力参考 155。",
+  "updateDate": "2026-08-07"
 }
