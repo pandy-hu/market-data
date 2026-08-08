@@ -1,0 +1,20 @@
+{
+  "symbol": "sh600276",
+  "name": "恒瑞医药",
+  "type": "cn",
+  "price": 54.62,
+  "change": 2.51,
+  "changePct": 4.82,
+  "klineImage": "/kline/sh600276.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 54.6,
+    "rsiLevel": "中性",
+    "support": "52",
+    "pressure": "58"
+  },
+  "summary": "恒瑞医药 近 40 根K线，震荡整理；RSI(14) 54.6（中性），MACD 绿柱放大 · 空头动能。支撑参考 52，压力参考 58。",
+  "updateDate": "2026-08-08"
+}
