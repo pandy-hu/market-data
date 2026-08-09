@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sz300363",
-    "name": "博腾股份",
+    "symbol": "sh603228",
+    "name": "景旺电子",
     "type": "cn",
-    "price": 20.44,
-    "change": 3.41,
-    "changePct": 20.02
+    "price": 94.95,
+    "change": 8.63,
+    "changePct": 10.0
   },
   {
-    "symbol": "sh600276",
-    "name": "恒瑞医药",
+    "symbol": "sh600176",
+    "name": "中国巨石",
     "type": "cn",
-    "price": 54.62,
-    "change": 2.51,
-    "changePct": 4.82
+    "price": 44.38,
+    "change": 3.6,
+    "changePct": 8.83
   },
   {
-    "symbol": "sz000657",
-    "name": "中钨高新",
+    "symbol": "sz301308",
+    "name": "江波龙",
     "type": "cn",
-    "price": 67.01,
-    "change": 4.51,
-    "changePct": 7.22
+    "price": 386.6,
+    "change": 20.26,
+    "changePct": 5.53
   },
   {
-    "symbol": "TSLA",
-    "name": "特斯拉",
+    "symbol": "NVDA",
+    "name": "英伟达",
     "type": "us",
-    "price": 328.58,
-    "change": 9.05,
-    "changePct": 2.83
+    "price": 223.96,
+    "change": 4.97,
+    "changePct": 2.27
   },
   {
-    "symbol": "solana",
-    "name": "Solana",
+    "symbol": "ethereum",
+    "name": "以太坊",
     "type": "crypto",
-    "price": 75.5,
-    "change": 1.84,
-    "changePct": 2.5
+    "price": 1924.31,
+    "change": 7.57,
+    "changePct": 0.39
   }
 ]

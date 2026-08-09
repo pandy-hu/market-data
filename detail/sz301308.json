@@ -1,0 +1,20 @@
+{
+  "symbol": "sz301308",
+  "name": "江波龙",
+  "type": "cn",
+  "price": 386.6,
+  "change": 20.26,
+  "changePct": 5.53,
+  "klineImage": "/kline/sz301308.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 45.4,
+    "rsiLevel": "中性",
+    "support": "308",
+    "pressure": "577"
+  },
+  "summary": "江波龙 近 40 根K线，震荡整理；RSI(14) 45.4（中性），MACD 红柱放大 · 多头动能。支撑参考 308，压力参考 577。",
+  "updateDate": "2026-08-09"
+}

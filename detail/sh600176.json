@@ -2,19 +2,19 @@
   "symbol": "sh600176",
   "name": "中国巨石",
   "type": "cn",
-  "price": 41.07,
-  "change": 3.73,
-  "changePct": 9.99,
+  "price": 44.38,
+  "change": 3.6,
+  "changePct": 8.83,
   "klineImage": "/kline/sh600176.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
-    "macd": "绿柱放大 · 空头动能",
-    "macdDir": "偏空",
-    "rsi": 40.8,
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 52.9,
     "rsiLevel": "中性",
-    "support": "36",
-    "pressure": "77"
+    "support": "34",
+    "pressure": "56"
   },
-  "summary": "中国巨石 近 40 根K线，震荡整理；RSI(14) 40.8（中性），MACD 绿柱放大 · 空头动能。支撑参考 36，压力参考 77。",
-  "updateDate": "2026-07-27"
+  "summary": "中国巨石 近 40 根K线，震荡整理；RSI(14) 52.9（中性），MACD 红柱放大 · 多头动能。支撑参考 34，压力参考 56。",
+  "updateDate": "2026-08-09"
 }
