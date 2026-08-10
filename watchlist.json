@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sh603228",
-    "name": "景旺电子",
+    "symbol": "sz000506",
+    "name": "招金黄金",
     "type": "cn",
-    "price": 94.95,
-    "change": 8.63,
+    "price": 19.94,
+    "change": 1.81,
+    "changePct": 9.98
+  },
+  {
+    "symbol": "sh601606",
+    "name": "长城军工",
+    "type": "cn",
+    "price": 36.18,
+    "change": 3.29,
     "changePct": 10.0
   },
   {
-    "symbol": "sh600176",
-    "name": "中国巨石",
+    "symbol": "sh600519",
+    "name": "贵州茅台",
     "type": "cn",
-    "price": 44.38,
-    "change": 3.6,
-    "changePct": 8.83
+    "price": 1348.86,
+    "change": 39.67,
+    "changePct": 3.03
   },
   {
-    "symbol": "sz301308",
-    "name": "江波龙",
+    "symbol": "sh688256",
+    "name": "寒武纪",
     "type": "cn",
-    "price": 386.6,
-    "change": 20.26,
-    "changePct": 5.53
+    "price": 1124.0,
+    "change": -75.96,
+    "changePct": -6.33
   },
   {
-    "symbol": "NVDA",
-    "name": "英伟达",
+    "symbol": "META",
+    "name": "Meta",
     "type": "us",
-    "price": 223.96,
-    "change": 4.97,
-    "changePct": 2.27
-  },
-  {
-    "symbol": "ethereum",
-    "name": "以太坊",
-    "type": "crypto",
-    "price": 1924.31,
-    "change": 7.57,
-    "changePct": 0.39
+    "price": 600.31,
+    "change": 8.23,
+    "changePct": 1.39
   }
 ]

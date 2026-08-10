@@ -1,0 +1,20 @@
+{
+  "symbol": "sh688256",
+  "name": "寒武纪",
+  "type": "cn",
+  "price": 1124.0,
+  "change": -75.96,
+  "changePct": -6.33,
+  "klineImage": "/kline/sh688256.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 44.1,
+    "rsiLevel": "中性",
+    "support": "1,011",
+    "pressure": "1,426"
+  },
+  "summary": "寒武纪 近 40 根K线，震荡整理；RSI(14) 44.1（中性），MACD 红柱放大 · 多头动能。支撑参考 1,011，压力参考 1,426。",
+  "updateDate": "2026-08-10"
+}
