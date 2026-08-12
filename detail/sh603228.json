@@ -2,19 +2,19 @@
   "symbol": "sh603228",
   "name": "景旺电子",
   "type": "cn",
-  "price": 94.95,
-  "change": 8.63,
+  "price": 98.21,
+  "change": 8.93,
   "changePct": 10.0,
   "klineImage": "/kline/sh603228.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
     "macd": "红柱放大 · 多头动能",
     "macdDir": "偏多",
-    "rsi": 67.4,
+    "rsi": 64.7,
     "rsiLevel": "中性",
     "support": "63",
-    "pressure": "95"
+    "pressure": "100"
   },
-  "summary": "景旺电子 近 40 根K线，震荡整理；RSI(14) 67.4（中性），MACD 红柱放大 · 多头动能。支撑参考 63，压力参考 95。",
-  "updateDate": "2026-08-09"
+  "summary": "景旺电子 近 40 根K线，震荡整理；RSI(14) 64.7（中性），MACD 红柱放大 · 多头动能。支撑参考 63，压力参考 100。",
+  "updateDate": "2026-08-12"
 }

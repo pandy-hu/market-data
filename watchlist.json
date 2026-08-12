@@ -1,11 +1,19 @@
 [
   {
-    "symbol": "sz002400",
-    "name": "省广集团",
+    "symbol": "sz300308",
+    "name": "中际旭创",
     "type": "cn",
-    "price": 7.6,
-    "change": 0.69,
-    "changePct": 9.99
+    "price": 921.0,
+    "change": 34.04,
+    "changePct": 3.84
+  },
+  {
+    "symbol": "sz002428",
+    "name": "云南锗业",
+    "type": "cn",
+    "price": 105.98,
+    "change": 5.7,
+    "changePct": 5.68
   },
   {
     "symbol": "sh600602",
@@ -16,27 +24,19 @@
     "changePct": 9.99
   },
   {
-    "symbol": "sh603232",
-    "name": "格尔软件",
+    "symbol": "sh603228",
+    "name": "景旺电子",
     "type": "cn",
-    "price": 18.0,
-    "change": 1.64,
-    "changePct": 10.02
-  },
-  {
-    "symbol": "sz002428",
-    "name": "云南锗业",
-    "type": "cn",
-    "price": 106.04,
-    "change": 5.76,
-    "changePct": 5.74
+    "price": 98.21,
+    "change": 8.93,
+    "changePct": 10.0
   },
   {
     "symbol": "GOOGL",
     "name": "Google-A",
     "type": "us",
     "price": 343.8,
-    "change": -13.73,
+    "change": -13.72,
     "changePct": -3.84
   }
 ]

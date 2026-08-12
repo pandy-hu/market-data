@@ -3,18 +3,18 @@
   "name": "Google-A",
   "type": "us",
   "price": 343.8,
-  "change": -13.73,
+  "change": -13.72,
   "changePct": -3.84,
   "klineImage": "/kline/GOOGL.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
     "macd": "红柱放大 · 多头动能",
     "macdDir": "偏多",
-    "rsi": 45.3,
+    "rsi": 45.0,
     "rsiLevel": "中性",
     "support": "315",
     "pressure": "384"
   },
-  "summary": "Google-A 近 40 根K线，震荡整理；RSI(14) 45.3（中性），MACD 红柱放大 · 多头动能。支撑参考 315，压力参考 384。",
+  "summary": "Google-A 近 39 根K线，震荡整理；RSI(14) 45.0（中性），MACD 红柱放大 · 多头动能。支撑参考 315，压力参考 384。",
   "updateDate": "2026-08-12"
 }
