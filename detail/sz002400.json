@@ -1,0 +1,20 @@
+{
+  "symbol": "sz002400",
+  "name": "省广集团",
+  "type": "cn",
+  "price": 7.6,
+  "change": 0.69,
+  "changePct": 9.99,
+  "klineImage": "/kline/sz002400.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 70.7,
+    "rsiLevel": "超买",
+    "support": "6",
+    "pressure": "8"
+  },
+  "summary": "省广集团 近 40 根K线，震荡整理；RSI(14) 70.7（超买），MACD 红柱放大 · 多头动能。支撑参考 6，压力参考 8。",
+  "updateDate": "2026-08-12"
+}

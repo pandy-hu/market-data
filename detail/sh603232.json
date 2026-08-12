@@ -1,0 +1,20 @@
+{
+  "symbol": "sh603232",
+  "name": "格尔软件",
+  "type": "cn",
+  "price": 18.0,
+  "change": 1.64,
+  "changePct": 10.02,
+  "klineImage": "/kline/sh603232.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 72.6,
+    "rsiLevel": "超买",
+    "support": "12",
+    "pressure": "18"
+  },
+  "summary": "格尔软件 近 40 根K线，震荡整理；RSI(14) 72.6（超买），MACD 红柱放大 · 多头动能。支撑参考 12，压力参考 18。",
+  "updateDate": "2026-08-12"
+}

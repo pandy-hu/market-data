@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sz000506",
-    "name": "招金黄金",
+    "symbol": "sz002400",
+    "name": "省广集团",
     "type": "cn",
-    "price": 19.94,
-    "change": 1.81,
-    "changePct": 9.98
+    "price": 7.6,
+    "change": 0.69,
+    "changePct": 9.99
   },
   {
-    "symbol": "sh601606",
-    "name": "长城军工",
+    "symbol": "sh600602",
+    "name": "云赛智联",
     "type": "cn",
-    "price": 36.18,
-    "change": 3.29,
-    "changePct": 10.0
+    "price": 20.25,
+    "change": 1.84,
+    "changePct": 9.99
   },
   {
-    "symbol": "sh600519",
-    "name": "贵州茅台",
+    "symbol": "sh603232",
+    "name": "格尔软件",
     "type": "cn",
-    "price": 1348.86,
-    "change": 39.67,
-    "changePct": 3.03
+    "price": 18.0,
+    "change": 1.64,
+    "changePct": 10.02
   },
   {
-    "symbol": "sh688256",
-    "name": "寒武纪",
+    "symbol": "sz002428",
+    "name": "云南锗业",
     "type": "cn",
-    "price": 1124.0,
-    "change": -75.96,
-    "changePct": -6.33
+    "price": 106.04,
+    "change": 5.76,
+    "changePct": 5.74
   },
   {
-    "symbol": "META",
-    "name": "Meta",
+    "symbol": "GOOGL",
+    "name": "Google-A",
     "type": "us",
-    "price": 600.31,
-    "change": 8.23,
-    "changePct": 1.39
+    "price": 343.8,
+    "change": -13.73,
+    "changePct": -3.84
   }
 ]

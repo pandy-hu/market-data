@@ -1,0 +1,20 @@
+{
+  "symbol": "sh600602",
+  "name": "云赛智联",
+  "type": "cn",
+  "price": 20.25,
+  "change": 1.84,
+  "changePct": 9.99,
+  "klineImage": "/kline/sh600602.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 63.1,
+    "rsiLevel": "中性",
+    "support": "16",
+    "pressure": "21"
+  },
+  "summary": "云赛智联 近 40 根K线，震荡整理；RSI(14) 63.1（中性），MACD 红柱放大 · 多头动能。支撑参考 16，压力参考 21。",
+  "updateDate": "2026-08-12"
+}
