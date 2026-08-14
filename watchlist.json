@@ -27,16 +27,16 @@
     "symbol": "NVDA",
     "name": "英伟达",
     "type": "us",
-    "price": 225.3,
-    "change": 1.21,
-    "changePct": 0.54
+    "price": 226.38,
+    "change": 1.08,
+    "changePct": 0.48
   },
   {
     "symbol": "TSLA",
     "name": "特斯拉",
     "type": "us",
-    "price": 339.96,
-    "change": 12.45,
-    "changePct": 3.8
+    "price": 342.56,
+    "change": 2.58,
+    "changePct": 0.76
   }
 ]
