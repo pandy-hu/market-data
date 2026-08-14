@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sz300308",
-    "name": "中际旭创",
+    "symbol": "sh600487",
+    "name": "亨通光电",
     "type": "cn",
-    "price": 921.0,
-    "change": 34.04,
-    "changePct": 3.84
+    "price": 62.98,
+    "change": 5.73,
+    "changePct": 10.01
   },
   {
-    "symbol": "sz002428",
-    "name": "云南锗业",
+    "symbol": "sz300684",
+    "name": "中石科技",
     "type": "cn",
-    "price": 105.98,
-    "change": 5.7,
-    "changePct": 5.68
+    "price": 67.36,
+    "change": 11.23,
+    "changePct": 20.01
   },
   {
-    "symbol": "sh600602",
-    "name": "云赛智联",
+    "symbol": "sz000831",
+    "name": "中国稀土",
     "type": "cn",
-    "price": 20.25,
-    "change": 1.84,
-    "changePct": 9.99
-  },
-  {
-    "symbol": "sh603228",
-    "name": "景旺电子",
-    "type": "cn",
-    "price": 98.21,
-    "change": 8.93,
+    "price": 60.95,
+    "change": 5.54,
     "changePct": 10.0
   },
   {
-    "symbol": "GOOGL",
-    "name": "Google-A",
+    "symbol": "NVDA",
+    "name": "英伟达",
     "type": "us",
-    "price": 343.8,
-    "change": -13.72,
-    "changePct": -3.84
+    "price": 225.3,
+    "change": 1.21,
+    "changePct": 0.54
+  },
+  {
+    "symbol": "TSLA",
+    "name": "特斯拉",
+    "type": "us",
+    "price": 339.96,
+    "change": 12.45,
+    "changePct": 3.8
   }
 ]

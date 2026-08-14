@@ -2,19 +2,19 @@
   "symbol": "sz000831",
   "name": "中国稀土",
   "type": "cn",
-  "price": 57.19,
-  "change": 5.2,
+  "price": 60.95,
+  "change": 5.54,
   "changePct": 10.0,
   "klineImage": "/kline/sz000831.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
     "macd": "红柱放大 · 多头动能",
     "macdDir": "偏多",
-    "rsi": 66.6,
+    "rsi": 64.3,
     "rsiLevel": "中性",
     "support": "45",
-    "pressure": "57"
+    "pressure": "61"
   },
-  "summary": "中国稀土 近 40 根K线，震荡整理；RSI(14) 66.6（中性），MACD 红柱放大 · 多头动能。支撑参考 45，压力参考 57。",
-  "updateDate": "2026-08-07"
+  "summary": "中国稀土 近 40 根K线，震荡整理；RSI(14) 64.3（中性），MACD 红柱放大 · 多头动能。支撑参考 45，压力参考 61。",
+  "updateDate": "2026-08-14"
 }

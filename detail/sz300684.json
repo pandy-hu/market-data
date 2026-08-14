@@ -1,0 +1,20 @@
+{
+  "symbol": "sz300684",
+  "name": "中石科技",
+  "type": "cn",
+  "price": 67.36,
+  "change": 11.23,
+  "changePct": 20.01,
+  "klineImage": "/kline/sz300684.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 67.0,
+    "rsiLevel": "中性",
+    "support": "41",
+    "pressure": "67"
+  },
+  "summary": "中石科技 近 40 根K线，震荡整理；RSI(14) 67.0（中性），MACD 红柱放大 · 多头动能。支撑参考 41，压力参考 67。",
+  "updateDate": "2026-08-14"
+}
