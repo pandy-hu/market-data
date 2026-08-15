@@ -1,0 +1,20 @@
+{
+  "symbol": "sh603881",
+  "name": "数据港",
+  "type": "cn",
+  "price": 29.04,
+  "change": 2.64,
+  "changePct": 10.0,
+  "klineImage": "/kline/sh603881.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 62.6,
+    "rsiLevel": "中性",
+    "support": "23",
+    "pressure": "29"
+  },
+  "summary": "数据港 近 40 根K线，震荡整理；RSI(14) 62.6（中性），MACD 红柱放大 · 多头动能。支撑参考 23，压力参考 29。",
+  "updateDate": "2026-08-15"
+}

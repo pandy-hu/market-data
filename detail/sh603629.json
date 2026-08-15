@@ -1,0 +1,20 @@
+{
+  "symbol": "sh603629",
+  "name": "利通电子",
+  "type": "cn",
+  "price": 137.5,
+  "change": 12.5,
+  "changePct": 10.0,
+  "klineImage": "/kline/sh603629.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 60.3,
+    "rsiLevel": "中性",
+    "support": "87",
+    "pressure": "138"
+  },
+  "summary": "利通电子 近 40 根K线，震荡整理；RSI(14) 60.3（中性），MACD 红柱放大 · 多头动能。支撑参考 87，压力参考 138。",
+  "updateDate": "2026-08-15"
+}

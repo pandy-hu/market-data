@@ -8,35 +8,35 @@
     "changePct": 10.01
   },
   {
-    "symbol": "sz300684",
-    "name": "中石科技",
+    "symbol": "sh603629",
+    "name": "利通电子",
     "type": "cn",
-    "price": 67.36,
-    "change": 11.23,
-    "changePct": 20.01
+    "price": 137.5,
+    "change": 12.5,
+    "changePct": 10.0
   },
   {
-    "symbol": "sz000831",
-    "name": "中国稀土",
+    "symbol": "sh603881",
+    "name": "数据港",
     "type": "cn",
-    "price": 60.95,
-    "change": 5.54,
+    "price": 29.04,
+    "change": 2.64,
     "changePct": 10.0
   },
   {
     "symbol": "NVDA",
     "name": "英伟达",
     "type": "us",
-    "price": 226.38,
-    "change": 1.08,
-    "changePct": 0.48
+    "price": 225.16,
+    "change": -0.14,
+    "changePct": -0.06
   },
   {
-    "symbol": "TSLA",
-    "name": "特斯拉",
-    "type": "us",
-    "price": 342.56,
-    "change": 2.58,
-    "changePct": 0.76
+    "symbol": "bitcoin",
+    "name": "比特币",
+    "type": "crypto",
+    "price": 62978.0,
+    "change": 332.02,
+    "changePct": 0.53
   }
 ]
