@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sh600487",
-    "name": "亨通光电",
+    "symbol": "sz300684",
+    "name": "中石科技",
     "type": "cn",
-    "price": 62.98,
-    "change": 5.73,
-    "changePct": 10.01
+    "price": 67.36,
+    "change": 11.23,
+    "changePct": 20.01
   },
   {
-    "symbol": "sh603629",
-    "name": "利通电子",
+    "symbol": "sz300017",
+    "name": "网宿科技",
     "type": "cn",
-    "price": 137.5,
-    "change": 12.5,
+    "price": 17.33,
+    "change": 2.89,
+    "changePct": 20.01
+  },
+  {
+    "symbol": "sz000831",
+    "name": "中国稀土",
+    "type": "cn",
+    "price": 60.95,
+    "change": 5.54,
     "changePct": 10.0
   },
   {
-    "symbol": "sh603881",
-    "name": "数据港",
-    "type": "cn",
-    "price": 29.04,
-    "change": 2.64,
-    "changePct": 10.0
-  },
-  {
-    "symbol": "NVDA",
-    "name": "英伟达",
+    "symbol": "TSLA",
+    "name": "特斯拉",
     "type": "us",
-    "price": 225.16,
-    "change": -0.14,
-    "changePct": -0.06
+    "price": 342.27,
+    "change": 2.31,
+    "changePct": 0.68
   },
   {
-    "symbol": "bitcoin",
-    "name": "比特币",
+    "symbol": "ethereum",
+    "name": "以太坊",
     "type": "crypto",
-    "price": 62978.0,
-    "change": 332.02,
-    "changePct": 0.53
+    "price": 1879.13,
+    "change": -2.07,
+    "changePct": -0.11
   }
 ]
