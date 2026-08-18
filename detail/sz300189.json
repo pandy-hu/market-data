@@ -1,0 +1,20 @@
+{
+  "symbol": "sz300189",
+  "name": "神农种业",
+  "type": "cn",
+  "price": 6.23,
+  "change": 1.04,
+  "changePct": 20.04,
+  "klineImage": "/kline/sz300189.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 76.9,
+    "rsiLevel": "超买",
+    "support": "4",
+    "pressure": "6"
+  },
+  "summary": "神农种业 近 40 根K线，震荡整理；RSI(14) 76.9（超买），MACD 红柱放大 · 多头动能。支撑参考 4，压力参考 6。",
+  "updateDate": "2026-08-19"
+}
