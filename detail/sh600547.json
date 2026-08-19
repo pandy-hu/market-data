@@ -1,0 +1,20 @@
+{
+  "symbol": "sh600547",
+  "name": "山东黄金",
+  "type": "cn",
+  "price": 32.6,
+  "change": 1.99,
+  "changePct": 6.5,
+  "klineImage": "/kline/sh600547.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 68.3,
+    "rsiLevel": "中性",
+    "support": "26",
+    "pressure": "33"
+  },
+  "summary": "山东黄金 近 40 根K线，震荡整理；RSI(14) 68.3（中性），MACD 红柱放大 · 多头动能。支撑参考 26，压力参考 33。",
+  "updateDate": "2026-08-19"
+}
