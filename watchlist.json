@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sh601011",
-    "name": "宝泰隆",
+    "symbol": "sh600988",
+    "name": "赤峰黄金",
     "type": "cn",
-    "price": 3.04,
-    "change": 0.28,
-    "changePct": 10.14
+    "price": 49.43,
+    "change": 3.33,
+    "changePct": 7.22
   },
   {
-    "symbol": "sh603290",
-    "name": "斯达半导",
+    "symbol": "sz002716",
+    "name": "湖南白银",
     "type": "cn",
-    "price": 100.31,
-    "change": 9.12,
-    "changePct": 10.0
-  },
-  {
-    "symbol": "sh600547",
-    "name": "山东黄金",
-    "type": "cn",
-    "price": 32.6,
-    "change": 1.99,
-    "changePct": 6.5
+    "price": 10.42,
+    "change": 0.95,
+    "changePct": 10.03
   },
   {
     "symbol": "NVDA",
     "name": "英伟达",
     "type": "us",
-    "price": 221.92,
-    "change": 2.18,
-    "changePct": 0.99
+    "price": 218.03,
+    "change": 1.17,
+    "changePct": 0.54
+  },
+  {
+    "symbol": "TSLA",
+    "name": "特斯拉",
+    "type": "us",
+    "price": 349.35,
+    "change": 4.21,
+    "changePct": 1.22
   },
   {
     "symbol": "bitcoin",
     "name": "比特币",
     "type": "crypto",
-    "price": 65118.94,
-    "change": 393.52,
-    "changePct": 0.61
+    "price": 76693.0,
+    "change": 4809.04,
+    "changePct": 6.69
   }
 ]
