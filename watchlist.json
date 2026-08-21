@@ -19,24 +19,24 @@
     "symbol": "NVDA",
     "name": "英伟达",
     "type": "us",
-    "price": 218.03,
-    "change": 1.17,
-    "changePct": 0.54
+    "price": 216.91,
+    "change": 0.07,
+    "changePct": 0.03
   },
   {
     "symbol": "TSLA",
     "name": "特斯拉",
     "type": "us",
-    "price": 349.35,
-    "change": 4.21,
-    "changePct": 1.22
+    "price": 348.2,
+    "change": 3.07,
+    "changePct": 0.89
   },
   {
     "symbol": "bitcoin",
     "name": "比特币",
     "type": "crypto",
-    "price": 76693.0,
-    "change": 4809.04,
-    "changePct": 6.69
+    "price": 76908.0,
+    "change": 5038.08,
+    "changePct": 7.01
   }
 ]
