@@ -1,5 +1,13 @@
 [
   {
+    "symbol": "sz002716",
+    "name": "湖南白银",
+    "type": "cn",
+    "price": 10.42,
+    "change": 0.95,
+    "changePct": 10.03
+  },
+  {
     "symbol": "sz000603",
     "name": "盛达资源",
     "type": "cn",
@@ -8,19 +16,11 @@
     "changePct": 10.01
   },
   {
-    "symbol": "sh601899",
-    "name": "紫金矿业",
-    "type": "cn",
-    "price": 34.74,
-    "change": 0.91,
-    "changePct": 2.69
-  },
-  {
     "symbol": "TSLA",
     "name": "特斯拉",
     "type": "us",
     "price": 362.86,
-    "change": 17.74,
+    "change": 17.73,
     "changePct": 5.14
   },
   {
@@ -28,15 +28,15 @@
     "name": "谷歌-A",
     "type": "us",
     "price": 344.82,
-    "change": 4.16,
+    "change": 4.15,
     "changePct": 1.22
   },
   {
     "symbol": "bitcoin",
     "name": "比特币",
     "type": "crypto",
-    "price": 76569.0,
-    "change": -749.99,
-    "changePct": -0.97
+    "price": 77455.88,
+    "change": 380.95,
+    "changePct": 0.49
   }
 ]

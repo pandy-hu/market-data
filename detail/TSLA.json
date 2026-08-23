@@ -3,7 +3,7 @@
   "name": "特斯拉",
   "type": "us",
   "price": 362.86,
-  "change": 17.74,
+  "change": 17.73,
   "changePct": 5.14,
   "klineImage": "/kline/TSLA.png",
   "indicators": {
