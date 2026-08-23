@@ -1,20 +1,20 @@
 {
   "symbol": "GOOGL",
-  "name": "Google-A",
+  "name": "谷歌-A",
   "type": "us",
-  "price": 343.8,
-  "change": -13.72,
-  "changePct": -3.84,
+  "price": 344.82,
+  "change": 4.16,
+  "changePct": 1.22,
   "klineImage": "/kline/GOOGL.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
-    "macd": "红柱放大 · 多头动能",
-    "macdDir": "偏多",
-    "rsi": 45.0,
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 49.6,
     "rsiLevel": "中性",
-    "support": "315",
+    "support": "324",
     "pressure": "384"
   },
-  "summary": "Google-A 近 39 根K线，震荡整理；RSI(14) 45.0（中性），MACD 红柱放大 · 多头动能。支撑参考 315，压力参考 384。",
-  "updateDate": "2026-08-12"
+  "summary": "谷歌-A 近 40 根K线，震荡整理；RSI(14) 49.6（中性），MACD 绿柱放大 · 空头动能。支撑参考 324，压力参考 384。",
+  "updateDate": "2026-08-23"
 }
