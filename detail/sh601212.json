@@ -1,0 +1,20 @@
+{
+  "symbol": "sh601212",
+  "name": "白银有色",
+  "type": "cn",
+  "price": 6.7,
+  "change": 0.61,
+  "changePct": 10.02,
+  "klineImage": "/kline/sh601212.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 72.5,
+    "rsiLevel": "超买",
+    "support": "5",
+    "pressure": "7"
+  },
+  "summary": "白银有色 近 40 根K线，震荡整理；RSI(14) 72.5（超买），MACD 红柱放大 · 多头动能。支撑参考 5，压力参考 7。",
+  "updateDate": "2026-08-24"
+}

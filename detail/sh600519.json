@@ -2,19 +2,19 @@
   "symbol": "sh600519",
   "name": "贵州茅台",
   "type": "cn",
-  "price": 1348.86,
-  "change": 39.67,
-  "changePct": 3.03,
+  "price": 1304.66,
+  "change": 31.82,
+  "changePct": 2.5,
   "klineImage": "/kline/sh600519.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
     "macd": "绿柱放大 · 空头动能",
     "macdDir": "偏空",
-    "rsi": 61.9,
+    "rsi": 51.8,
     "rsiLevel": "中性",
-    "support": "1,199",
+    "support": "1,270",
     "pressure": "1,363"
   },
-  "summary": "贵州茅台 近 40 根K线，震荡整理；RSI(14) 61.9（中性），MACD 绿柱放大 · 空头动能。支撑参考 1,199，压力参考 1,363。",
-  "updateDate": "2026-08-10"
+  "summary": "贵州茅台 近 40 根K线，震荡整理；RSI(14) 51.8（中性），MACD 绿柱放大 · 空头动能。支撑参考 1,270，压力参考 1,363。",
+  "updateDate": "2026-08-24"
 }

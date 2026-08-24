@@ -1,0 +1,20 @@
+{
+  "symbol": "sz000723",
+  "name": "美锦能源",
+  "type": "cn",
+  "price": 3.89,
+  "change": 0.35,
+  "changePct": 9.89,
+  "klineImage": "/kline/sz000723.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 61.4,
+    "rsiLevel": "中性",
+    "support": "3",
+    "pressure": "4"
+  },
+  "summary": "美锦能源 近 40 根K线，震荡整理；RSI(14) 61.4（中性），MACD 金叉 · DIF上穿DEA。支撑参考 3，压力参考 4。",
+  "updateDate": "2026-08-24"
+}
