@@ -1,0 +1,20 @@
+{
+  "symbol": "sh688169",
+  "name": "石头科技",
+  "type": "cn",
+  "price": 135.0,
+  "change": 22.5,
+  "changePct": 20.0,
+  "klineImage": "/kline/sh688169.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 71.5,
+    "rsiLevel": "超买",
+    "support": "104",
+    "pressure": "135"
+  },
+  "summary": "石头科技 近 40 根K线，震荡整理；RSI(14) 71.5（超买），MACD 红柱放大 · 多头动能。支撑参考 104，压力参考 135。",
+  "updateDate": "2026-08-25"
+}

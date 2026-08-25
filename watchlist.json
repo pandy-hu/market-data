@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sh601212",
-    "name": "白银有色",
+    "symbol": "sh688169",
+    "name": "石头科技",
     "type": "cn",
-    "price": 6.7,
-    "change": 0.61,
-    "changePct": 10.02
+    "price": 135.0,
+    "change": 22.5,
+    "changePct": 20.0
   },
   {
-    "symbol": "sz000723",
-    "name": "美锦能源",
+    "symbol": "sh600127",
+    "name": "金健米业",
     "type": "cn",
-    "price": 3.89,
-    "change": 0.35,
-    "changePct": 9.89
+    "price": 9.31,
+    "change": 0.85,
+    "changePct": 10.05
   },
   {
-    "symbol": "sh600519",
-    "name": "贵州茅台",
+    "symbol": "sh603259",
+    "name": "药明康德",
     "type": "cn",
-    "price": 1304.66,
-    "change": 31.82,
-    "changePct": 2.5
-  },
-  {
-    "symbol": "sz300308",
-    "name": "中际旭创",
-    "type": "cn",
-    "price": 870.22,
-    "change": -72.8,
-    "changePct": -7.72
+    "price": 161.0,
+    "change": 5.16,
+    "changePct": 3.31
   },
   {
     "symbol": "NVDA",
     "name": "英伟达",
     "type": "us",
-    "price": 209.97,
-    "change": -4.75,
-    "changePct": -2.21
+    "price": 211.43,
+    "change": 2.96,
+    "changePct": 1.42
+  },
+  {
+    "symbol": "bitcoin",
+    "name": "比特币",
+    "type": "crypto",
+    "price": 78737.0,
+    "change": -268.62,
+    "changePct": -0.34
   }
 ]

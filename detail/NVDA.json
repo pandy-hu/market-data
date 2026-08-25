@@ -2,19 +2,19 @@
   "symbol": "NVDA",
   "name": "英伟达",
   "type": "us",
-  "price": 209.97,
-  "change": -4.75,
-  "changePct": -2.21,
+  "price": 211.43,
+  "change": 2.96,
+  "changePct": 1.42,
   "klineImage": "/kline/NVDA.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
     "macd": "绿柱放大 · 空头动能",
     "macdDir": "偏空",
-    "rsi": 47.6,
+    "rsi": 45.4,
     "rsiLevel": "中性",
     "support": "190",
     "pressure": "228"
   },
-  "summary": "英伟达 近 40 根K线，震荡整理；RSI(14) 47.6（中性），MACD 绿柱放大 · 空头动能。支撑参考 190，压力参考 228。",
-  "updateDate": "2026-08-24"
+  "summary": "英伟达 近 39 根K线，震荡整理；RSI(14) 45.4（中性），MACD 绿柱放大 · 空头动能。支撑参考 190，压力参考 228。",
+  "updateDate": "2026-08-25"
 }
