@@ -1,0 +1,20 @@
+{
+  "symbol": "sz000712",
+  "name": "锦龙股份",
+  "type": "cn",
+  "price": 9.75,
+  "change": 0.89,
+  "changePct": 10.05,
+  "klineImage": "/kline/sz000712.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 60.4,
+    "rsiLevel": "中性",
+    "support": "8",
+    "pressure": "10"
+  },
+  "summary": "锦龙股份 近 40 根K线，震荡整理；RSI(14) 60.4（中性），MACD 金叉 · DIF上穿DEA。支撑参考 8，压力参考 10。",
+  "updateDate": "2026-08-26"
+}

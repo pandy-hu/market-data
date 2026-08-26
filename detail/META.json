@@ -2,19 +2,19 @@
   "symbol": "META",
   "name": "Meta",
   "type": "us",
-  "price": 543.67,
-  "change": -25.32,
-  "changePct": -4.45,
+  "price": 584.93,
+  "change": 14.88,
+  "changePct": 2.61,
   "klineImage": "/kline/META.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
     "macd": "绿柱放大 · 空头动能",
     "macdDir": "偏空",
-    "rsi": 38.1,
+    "rsi": 53.5,
     "rsiLevel": "中性",
     "support": "524",
-    "pressure": "649"
+    "pressure": "612"
   },
-  "summary": "Meta 近 40 根K线，震荡整理；RSI(14) 38.1（中性），MACD 绿柱放大 · 空头动能。支撑参考 524，压力参考 649。",
-  "updateDate": "2026-08-19"
+  "summary": "Meta 近 40 根K线，震荡整理；RSI(14) 53.5（中性），MACD 绿柱放大 · 空头动能。支撑参考 524，压力参考 612。",
+  "updateDate": "2026-08-26"
 }

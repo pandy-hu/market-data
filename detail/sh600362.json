@@ -1,0 +1,20 @@
+{
+  "symbol": "sh600362",
+  "name": "江西铜业",
+  "type": "cn",
+  "price": 48.57,
+  "change": 4.42,
+  "changePct": 10.01,
+  "klineImage": "/kline/sh600362.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 58.6,
+    "rsiLevel": "中性",
+    "support": "42",
+    "pressure": "50"
+  },
+  "summary": "江西铜业 近 40 根K线，震荡整理；RSI(14) 58.6（中性），MACD 绿柱放大 · 空头动能。支撑参考 42，压力参考 50。",
+  "updateDate": "2026-08-26"
+}
