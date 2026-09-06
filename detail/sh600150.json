@@ -1,0 +1,20 @@
+{
+  "symbol": "sh600150",
+  "name": "中国船舶",
+  "type": "cn",
+  "price": 37.47,
+  "change": 3.15,
+  "changePct": 9.18,
+  "klineImage": "/kline/sh600150.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 71.0,
+    "rsiLevel": "超买",
+    "support": "33",
+    "pressure": "38"
+  },
+  "summary": "中国船舶 近 40 根K线，震荡整理；RSI(14) 71.0（超买），MACD 红柱放大 · 多头动能。支撑参考 33，压力参考 38。",
+  "updateDate": "2026-09-06"
+}

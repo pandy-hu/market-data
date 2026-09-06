@@ -1,0 +1,20 @@
+{
+  "symbol": "sz000735",
+  "name": "罗牛山",
+  "type": "cn",
+  "price": 6.13,
+  "change": 0.56,
+  "changePct": 10.05,
+  "klineImage": "/kline/sz000735.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 61.8,
+    "rsiLevel": "中性",
+    "support": "5",
+    "pressure": "6"
+  },
+  "summary": "罗牛山 近 40 根K线，震荡整理；RSI(14) 61.8（中性），MACD 金叉 · DIF上穿DEA。支撑参考 5，压力参考 6。",
+  "updateDate": "2026-09-06"
+}

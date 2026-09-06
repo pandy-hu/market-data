@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sh600362",
-    "name": "江西铜业",
-    "type": "cn",
-    "price": 48.57,
-    "change": 4.42,
-    "changePct": 10.01
+    "symbol": "TSLA",
+    "name": "特斯拉",
+    "type": "us",
+    "price": 354.08,
+    "change": -22.28,
+    "changePct": -5.92
   },
   {
-    "symbol": "sh601212",
-    "name": "白银有色",
-    "type": "cn",
-    "price": 7.24,
-    "change": 0.66,
-    "changePct": 10.03
+    "symbol": "NVDA",
+    "name": "英伟达",
+    "type": "us",
+    "price": 230.36,
+    "change": 1.92,
+    "changePct": 0.84
   },
   {
-    "symbol": "sz000712",
-    "name": "锦龙股份",
+    "symbol": "sh600150",
+    "name": "中国船舶",
     "type": "cn",
-    "price": 9.75,
-    "change": 0.89,
+    "price": 37.47,
+    "change": 3.15,
+    "changePct": 9.18
+  },
+  {
+    "symbol": "sz000735",
+    "name": "罗牛山",
+    "type": "cn",
+    "price": 6.13,
+    "change": 0.56,
     "changePct": 10.05
   },
   {
-    "symbol": "META",
-    "name": "Meta",
-    "type": "us",
-    "price": 584.93,
-    "change": 14.88,
-    "changePct": 2.61
-  },
-  {
-    "symbol": "ethereum",
-    "name": "以太坊",
+    "symbol": "bitcoin",
+    "name": "比特币",
     "type": "crypto",
-    "price": 2442.2,
-    "change": -27.66,
-    "changePct": -1.12
+    "price": 79823.0,
+    "change": 71.78,
+    "changePct": 0.09
   }
 ]
