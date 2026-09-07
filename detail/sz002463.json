@@ -1,0 +1,20 @@
+{
+  "symbol": "sz002463",
+  "name": "沪电股份",
+  "type": "cn",
+  "price": 122.65,
+  "change": 11.15,
+  "changePct": 10.0,
+  "klineImage": "/kline/sz002463.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 50.9,
+    "rsiLevel": "中性",
+    "support": "111",
+    "pressure": "129"
+  },
+  "summary": "沪电股份 近 40 根K线，震荡整理；RSI(14) 50.9（中性），MACD 金叉 · DIF上穿DEA。支撑参考 111，压力参考 129。",
+  "updateDate": "2026-09-07"
+}
