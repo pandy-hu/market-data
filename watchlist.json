@@ -1,42 +1,42 @@
 [
   {
+    "symbol": "sh600150",
+    "name": "中国船舶",
+    "type": "cn",
+    "price": 40.82,
+    "change": 1.29,
+    "changePct": 3.26
+  },
+  {
+    "symbol": "sz000823",
+    "name": "超声电子",
+    "type": "cn",
+    "price": 18.7,
+    "change": 1.7,
+    "changePct": 10.0
+  },
+  {
+    "symbol": "TSLA",
+    "name": "特斯拉",
+    "type": "us",
+    "price": 360.5,
+    "change": -7.32,
+    "changePct": -1.99
+  },
+  {
     "symbol": "NVDA",
     "name": "英伟达",
     "type": "us",
-    "price": 230.36,
-    "change": 1.92,
-    "changePct": 0.84
-  },
-  {
-    "symbol": "sz300308",
-    "name": "中际旭创",
-    "type": "cn",
-    "price": 898.46,
-    "change": 84.49,
-    "changePct": 10.38
-  },
-  {
-    "symbol": "sz002281",
-    "name": "光迅科技",
-    "type": "cn",
-    "price": 184.47,
-    "change": 16.77,
-    "changePct": 10.0
+    "price": 220.99,
+    "change": -2.44,
+    "changePct": -1.09
   },
   {
     "symbol": "bitcoin",
     "name": "比特币",
     "type": "crypto",
-    "price": 79376.0,
-    "change": -430.96,
-    "changePct": -0.54
-  },
-  {
-    "symbol": "sz002463",
-    "name": "沪电股份",
-    "type": "cn",
-    "price": 122.65,
-    "change": 11.15,
-    "changePct": 10.0
+    "price": 76753.58,
+    "change": -1505.95,
+    "changePct": -1.92
   }
 ]
