@@ -1,0 +1,20 @@
+{
+  "symbol": "sh600967",
+  "name": "内蒙一机",
+  "type": "cn",
+  "price": 14.98,
+  "change": 1.36,
+  "changePct": 9.99,
+  "klineImage": "/kline/sh600967.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 73.7,
+    "rsiLevel": "超买",
+    "support": "11",
+    "pressure": "15"
+  },
+  "summary": "内蒙一机 近 40 根K线，震荡整理；RSI(14) 73.7（超买），MACD 红柱放大 · 多头动能。支撑参考 11，压力参考 15。",
+  "updateDate": "2026-09-11"
+}
