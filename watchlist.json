@@ -1,42 +1,42 @@
 [
   {
-    "symbol": "sz000636",
-    "name": "风华高科",
+    "symbol": "sh601869",
+    "name": "长飞光纤",
     "type": "cn",
-    "price": 55.99,
-    "change": 5.09,
-    "changePct": 10.0
+    "price": 473.99,
+    "change": 38.25,
+    "changePct": 8.78
   },
   {
-    "symbol": "sz000823",
-    "name": "超声电子",
+    "symbol": "sz002585",
+    "name": "双星新材",
     "type": "cn",
-    "price": 20.57,
-    "change": 1.87,
-    "changePct": 10.0
+    "price": 9.96,
+    "change": 0.91,
+    "changePct": 10.06
   },
   {
-    "symbol": "sh600967",
-    "name": "内蒙一机",
+    "symbol": "sz300308",
+    "name": "中际旭创",
     "type": "cn",
-    "price": 14.98,
-    "change": 1.36,
-    "changePct": 9.99
+    "price": 926.0,
+    "change": 35.9,
+    "changePct": 4.03
   },
   {
-    "symbol": "META",
-    "name": "Meta",
+    "symbol": "TSLA",
+    "name": "特斯拉",
     "type": "us",
-    "price": 653.5,
-    "change": 9.15,
-    "changePct": 1.42
+    "price": 365.44,
+    "change": 1.89,
+    "changePct": 0.52
   },
   {
-    "symbol": "ethereum",
-    "name": "以太坊",
+    "symbol": "bitcoin",
+    "name": "比特币",
     "type": "crypto",
-    "price": 2499.89,
-    "change": 61.62,
-    "changePct": 2.53
+    "price": 77201.0,
+    "change": -69.54,
+    "changePct": -0.09
   }
 ]

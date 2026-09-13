@@ -2,19 +2,19 @@
   "symbol": "sz300308",
   "name": "中际旭创",
   "type": "cn",
-  "price": 898.46,
-  "change": 84.49,
-  "changePct": 10.38,
+  "price": 926.0,
+  "change": 35.9,
+  "changePct": 4.03,
   "klineImage": "/kline/sz300308.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
-    "macd": "金叉 · DIF上穿DEA",
+    "macd": "红柱放大 · 多头动能",
     "macdDir": "偏多",
-    "rsi": 47.3,
+    "rsi": 53.1,
     "rsiLevel": "中性",
     "support": "804",
     "pressure": "1,015"
   },
-  "summary": "中际旭创 近 40 根K线，震荡整理；RSI(14) 47.3（中性），MACD 金叉 · DIF上穿DEA。支撑参考 804，压力参考 1,015。",
-  "updateDate": "2026-09-07"
+  "summary": "中际旭创 近 40 根K线，震荡整理；RSI(14) 53.1（中性），MACD 红柱放大 · 多头动能。支撑参考 804，压力参考 1,015。",
+  "updateDate": "2026-09-13"
 }

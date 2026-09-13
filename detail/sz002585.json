@@ -1,0 +1,20 @@
+{
+  "symbol": "sz002585",
+  "name": "双星新材",
+  "type": "cn",
+  "price": 9.96,
+  "change": 0.91,
+  "changePct": 10.06,
+  "klineImage": "/kline/sz002585.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "绿柱放大 · 空头动能",
+    "macdDir": "偏空",
+    "rsi": 58.5,
+    "rsiLevel": "中性",
+    "support": "9",
+    "pressure": "12"
+  },
+  "summary": "双星新材 近 40 根K线，震荡整理；RSI(14) 58.5（中性），MACD 绿柱放大 · 空头动能。支撑参考 9，压力参考 12。",
+  "updateDate": "2026-09-13"
+}
