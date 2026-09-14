@@ -1,0 +1,20 @@
+{
+  "symbol": "sz000981",
+  "name": "山子高科",
+  "type": "cn",
+  "price": 2.85,
+  "change": 0.26,
+  "changePct": 10.04,
+  "klineImage": "/kline/sz000981.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 59.0,
+    "rsiLevel": "中性",
+    "support": "3",
+    "pressure": "3"
+  },
+  "summary": "山子高科 近 40 根K线，震荡整理；RSI(14) 59.0（中性），MACD 金叉 · DIF上穿DEA。支撑参考 3，压力参考 3。",
+  "updateDate": "2026-09-14"
+}

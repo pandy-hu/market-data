@@ -2,19 +2,19 @@
   "symbol": "sz000823",
   "name": "超声电子",
   "type": "cn",
-  "price": 20.57,
-  "change": 1.87,
-  "changePct": 10.0,
+  "price": 22.63,
+  "change": 2.06,
+  "changePct": 10.01,
   "klineImage": "/kline/sz000823.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
     "macd": "红柱放大 · 多头动能",
     "macdDir": "偏多",
-    "rsi": 77.9,
+    "rsi": 81.7,
     "rsiLevel": "超买",
     "support": "14",
-    "pressure": "21"
+    "pressure": "23"
   },
-  "summary": "超声电子 近 40 根K线，震荡整理；RSI(14) 77.9（超买），MACD 红柱放大 · 多头动能。支撑参考 14，压力参考 21。",
-  "updateDate": "2026-09-11"
+  "summary": "超声电子 近 40 根K线，震荡整理；RSI(14) 81.7（超买），MACD 红柱放大 · 多头动能。支撑参考 14，压力参考 23。",
+  "updateDate": "2026-09-14"
 }
