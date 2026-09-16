@@ -1,0 +1,20 @@
+{
+  "symbol": "sz003026",
+  "name": "中晶科技",
+  "type": "cn",
+  "price": 33.64,
+  "change": 3.06,
+  "changePct": 10.01,
+  "klineImage": "/kline/sz003026.png",
+  "indicators": {
+    "maTrend": "均线纠缠 · 震荡",
+    "macd": "红柱放大 · 多头动能",
+    "macdDir": "偏多",
+    "rsi": 72.2,
+    "rsiLevel": "超买",
+    "support": "26",
+    "pressure": "34"
+  },
+  "summary": "中晶科技 近 40 根K线，震荡整理；RSI(14) 72.2（超买），MACD 红柱放大 · 多头动能。支撑参考 26，压力参考 34。",
+  "updateDate": "2026-09-16"
+}
