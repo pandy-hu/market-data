@@ -2,19 +2,19 @@
   "symbol": "ethereum",
   "name": "以太坊",
   "type": "crypto",
-  "price": 2508.69,
-  "change": 31.59,
-  "changePct": 1.28,
+  "price": 2636.18,
+  "change": 135.06,
+  "changePct": 5.4,
   "klineImage": "/kline/ethereum.png",
   "indicators": {
     "maTrend": "★ 多头排列 · 强势",
     "macd": "绿柱放大 · 空头动能",
     "macdDir": "偏空",
-    "rsi": 60.9,
+    "rsi": 65.4,
     "rsiLevel": "中性",
     "support": "2,356",
     "pressure": "2,666"
   },
-  "summary": "以太坊 近 60 根K线，★ 多头排列 · 强势；RSI(14) 60.9（中性），MACD 绿柱放大 · 空头动能。支撑参考 2,356，压力参考 2,666。",
-  "updateDate": "2026-09-14"
+  "summary": "以太坊 近 60 根K线，★ 多头排列 · 强势；RSI(14) 65.4（中性），MACD 绿柱放大 · 空头动能。支撑参考 2,356，压力参考 2,666。",
+  "updateDate": "2026-09-19"
 }

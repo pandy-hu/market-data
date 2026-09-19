@@ -2,19 +2,19 @@
   "symbol": "sh603986",
   "name": "兆易创新",
   "type": "cn",
-  "price": 385.44,
-  "change": 29.41,
-  "changePct": 8.26,
+  "price": 388.18,
+  "change": 18.3,
+  "changePct": 4.95,
   "klineImage": "/kline/sh603986.png",
   "indicators": {
     "maTrend": "均线纠缠 · 震荡",
-    "macd": "绿柱放大 · 空头动能",
-    "macdDir": "偏空",
-    "rsi": 40.7,
+    "macd": "金叉 · DIF上穿DEA",
+    "macdDir": "偏多",
+    "rsi": 49.0,
     "rsiLevel": "中性",
-    "support": "337",
-    "pressure": "708"
+    "support": "356",
+    "pressure": "412"
   },
-  "summary": "兆易创新 近 40 根K线，震荡整理；RSI(14) 40.7（中性），MACD 绿柱放大 · 空头动能。支撑参考 337，压力参考 708。",
-  "updateDate": "2026-08-05"
+  "summary": "兆易创新 近 40 根K线，震荡整理；RSI(14) 49.0（中性），MACD 金叉 · DIF上穿DEA。支撑参考 356，压力参考 412。",
+  "updateDate": "2026-09-19"
 }
